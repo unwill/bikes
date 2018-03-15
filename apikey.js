@@ -1,3 +1,3 @@
-export const apikey = '';
+const apikey = '';
 
 export default apikey;
