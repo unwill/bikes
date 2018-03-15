@@ -17,6 +17,6 @@
 2. ```yarn install``` for å laste ned alle pakkene
 3. ```yarn dev``` for å start webpack dev server. Den kjøres på http://localhost:8080/
 
-![Screenshot](https://github.com/unwill/)
+![Screenshot](https://github.com/unwill/bikes/blob/master/docs/sykkelstativer.png)
 
 
